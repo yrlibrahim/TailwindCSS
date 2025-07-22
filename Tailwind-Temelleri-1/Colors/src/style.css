@@ -1,0 +1,4 @@
+@theme {
+  --color-clifford: #da373d; /*Burada kendi renk classımızı oluşturabiliriz*/
+}
+@import "tailwindcss";
